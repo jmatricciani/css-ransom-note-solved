@@ -728,7 +728,7 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .skillsKLetter {
-  font-size: 40px;
+  font-size: 3em;
   font-weight: 700;
   color: hotpink;
   text-decoration: none;
@@ -770,22 +770,8 @@ body {
 
 /* SYMBOLS */
 
-.hyphen {
-  font-size: 69px;
-  font-weight: bold;
-  color: fuchsia;
-  text-decoration: none;
-  text-transform: none;
-  font-family: 'Ceviche One';
-}
-.exclamation-mark {
-  font-size: 25px;
-  font-weight: 700;
-  color: darkcyan;
-  text-decoration: line-through dotted;
-  text-transform: uppercase;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+.hyphen,
+.exclamation-mark,
 .question-mark {
   font-size: 45px;
   font-weight: 400;
